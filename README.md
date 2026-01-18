@@ -37,16 +37,3 @@ This project focuses on clean code structure and practical implementation of Jav
 
 ---
 
-## 📂 Project Structure
-EmployeeManagmentSystem/
-│
-├── src/
-│ ├── Main.java
-│ ├── Employee.java
-│ └── EmployeeService.java
-│
-├── bin/
-├── .classpath
-├── .project
-└── README.md
-
